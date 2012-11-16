@@ -1,8 +1,26 @@
-Application Files
------------------
-* index.html
+This sample application demonstrates the use of the jQuery and CSS to
+animate the solution to the Towers of Hanoi game.  The speed of the animation
+as well as the number of discs is user controlled.  The animation can be started,
+stopped, and reset by the user. 
 
-Copyright (c) 2012, Intel Corporation, version: 03 October 2012
+License Information Follows
+---------------------------
+* index.html
+* add.png
+* fast.png
+* minus.png
+* play.png
+* reset.png
+* slow.png
+* stop.png
+* abstract.txt
+* app.json
+* config.xml
+* icon.png
+* README.md
+* screenshot.png
+
+Copyright (c) 2012, Intel Corporation. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, 
 are permitted provided that the following conditions are met:
@@ -32,7 +50,7 @@ OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 jQuery and jQuery Mobile
 ------------------------
-* jquery-1.7.2.js
+* jquery-1.7.2.min.js
 
 Copyright (c) 2012, jQuery Foundation and other contributors.
 

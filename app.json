@@ -1,9 +1,0 @@
-{
-  "repository": "sample-towers-of-hanoi",
-  "caption": "Towers of Hanoi",
-  "tooltip": "Animate the Towers of Hanoi Puzzle",
-  "description": "This example shows how to use CSS and jQuery to animate the solving of the Towers of Hanoi puzzle.  The game will dynamically scale itself to fit any screen size",
-  "articleurl": "http://software.intel.com/en-us/articles/towers-of-hanoi-using-jquery-and-css",
-  "category": "HTML5",
-  "visible": "true"
-}

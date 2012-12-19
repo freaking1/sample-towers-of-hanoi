@@ -1,0 +1,6 @@
+The game will provides a graphical animation of moving disc from the leftmost pin to the rightmost one.
+The user controls the speed of the animation and how many discs to use. Also, there's controls stop, start, 
+and reset the animation.
+
+The app is written using 'portable' HTML5 that will work in all major browsers (including IE8). This makes
+it easy to create a hybrid version of the app, i.e. a native webview wrapped version.

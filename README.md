@@ -3,6 +3,13 @@ animate the solution to the Towers of Hanoi game.  The speed of the animation
 as well as the number of discs is user controlled.  The animation can be started,
 stopped, and reset by the user. 
 
+Intel(R) HTML5 Development Environment Beta
+-------------------------------------------
+This sample is part of the Intel(R) HTML5 Development Environment tool. 
+Please sign up the beta at http://software.intel.com/en-us/html5.
+To see the technical detail of the sample, please visit the sample article page 
+at http://software.intel.com/en-us/articles/towers-of-hanoi-using-jquery-and-css. 
+
 License Information Follows
 ---------------------------
 * index.html
@@ -15,6 +22,8 @@ License Information Follows
 * images/Image_PlayStart.png
 * images/Image_Slow.png
 * images/Image_Stop.png
+* win8-images/*.png
+* win8-proj/.jsproj,.pfx,.appxmanifest
 * abstract.txt
 * app.json
 * config.xml

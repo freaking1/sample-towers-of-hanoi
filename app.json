@@ -5,5 +5,8 @@
 	"description":"Illustrates use of CSS and jQuery to animate solving the Towers of Hanoi puzzle. The game dynamically scales itself to fit any screen size.",
 	"articleurl":"http://software.intel.com/en-us/articles/towers-of-hanoi-using-jquery-and-css",
 	"categories":["Game","jQuery"],
-	"visible": "true"
+	"visible": "true",
+	"apppreview":"true",
+	"appname":"andrew.hyde.smith.towers",
+	"relname":"4.0.0"
 }

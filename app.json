@@ -7,7 +7,7 @@
         "keywords":["Game"],
         "highlights":["Game"],
         "visible": "true",
-        "apppreview":"true",
+        "apppreview":"false",
         "appname":"demo.towers-of-hanoi",
         "relname":"4.0.0"
 }

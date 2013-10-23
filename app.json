@@ -1,13 +1,13 @@
 {
-	"reponame":"sample-towers-of-hanoi",
-	"title":"Towers of Hanoi",
-	"tooltip":"Animated Towers of Hanoi Puzzle",
-	"description":"Illustrates use of CSS and jQuery to animate solving the Towers of Hanoi puzzle. The game dynamically scales itself to fit any screen size.",
-	"highlights":["Game"],
-	"articleUrl":"http://software.intel.com/en-us/articles/towers-of-hanoi-using-jquery-and-css",
-	"keywords":["Game","jQuery"],
-	"iconUrl":"https://github.com/gomobile/sample-towers-of-hanoi/blob/master/icon.png",
-	"screenshotUrl":"https://github.com/gomobile/sample-towers-of-hanoi/blob/master/screenshot.png",
-	"visible" : "true",
-	"zipUrl":""
+        "reponame":"sample-towers-of-hanoi",
+        "caption":"Towers of Hanoi",
+        "tooltip":"Animated Towers of Hanoi Puzzle",
+        "description":"Illustrates use of CSS and jQuery to animate solving the Towers of Hanoi puzzle. The game dynamically scales itself to fit any screen size.",
+        "articleurl":"http://software.intel.com/en-us/articles/towers-of-hanoi-using-jquery-and-css",
+        "keywords":["Game"],
+        "highlights":["Game"],
+        "visible": "true",
+        "apppreview":"true",
+        "appname":"demo.towers-of-hanoi",
+        "relname":"4.0.0"
 }
